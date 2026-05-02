@@ -54,6 +54,3 @@
 
 <h2>9. Changes to This Policy</h2>
 <p>We may update this Privacy Policy from time to time. The "Last updated" date at the top of this page indicates when the policy was last revised. Continued use of the app after changes are posted constitutes acceptance of the revised policy.</p>
-
-</body>
-</html>
