@@ -12,7 +12,10 @@
 <p>When you purchase a Premium subscription, the transaction is processed by Google Play Billing and managed by RevenueCat. We receive an anonymous user identifier and information about your subscription status (active / inactive, plan type). We do not receive or store payment card details.</p>
 
 <h3>1.3 App Content Data</h3>
-<p>The app stores reading progress, vocabulary, language preferences, and similar app-state information. Some of this data may be synced to <strong>Google Firebase</strong> (Firestore and Cloud Storage) to provide content delivery and progress sync. Stored data is associated with an anonymous app instance identifier.</p>
+<p>The app stores your reading progress, vocabulary, and language preferences <strong>only on your device</strong> (local database). This data is not uploaded to our servers and is removed when you uninstall the app.</p>
+
+<h3>1.4 Content Delivery</h3>
+<p>The app downloads stories and learning content from <strong>Google Firebase</strong> (Firestore and Cloud Storage). This is a read-only operation: we deliver content to your device, but we do not upload personal data to Firebase.</p>
 
 <h3>1.4 Notifications</h3>
 <p>If you enable notifications, the app schedules local reminders on your device. We do not send push notifications from a server.</p>
